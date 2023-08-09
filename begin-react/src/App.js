@@ -8,6 +8,7 @@ function countActiveUsers(users){
   return users.filter(user => user.active).length;
 }
 
+//test commit
 // 21 완료
 const initialState = {
   users: [
